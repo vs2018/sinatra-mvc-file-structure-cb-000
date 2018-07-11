@@ -11,5 +11,6 @@ class Dog
   end
   
   def sell.all
+    @@all
   end
 end
