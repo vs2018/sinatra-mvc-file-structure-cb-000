@@ -9,4 +9,7 @@ class Dog
     @age = age
     @@all << self
   end
+  
+  def sell.all
+  end
 end
